@@ -1,0 +1,26 @@
+<annotation>
+	<folder>snake weed</folder>
+	<filename>240_F_404925357_BmQtfolmJw7DW1RO8Wr4x5BikXQamoRn.jpg</filename>
+	<path>C:\Users\DELL\Downloads\snake weed\240_F_404925357_BmQtfolmJw7DW1RO8Wr4x5BikXQamoRn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snakeweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>93</ymin>
+			<xmax>207</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Weed</folder>
+	<filename>images (16).jpg</filename>
+	<path>C:\Users\Utsav\Downloads\Weed\images (16).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>206</width>
+		<height>244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>98</ymin>
+			<xmax>176</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pineple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>8</ymin>
+			<xmax>184</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

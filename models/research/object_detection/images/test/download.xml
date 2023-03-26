@@ -1,0 +1,26 @@
+<annotation>
+	<folder>snake weed</folder>
+	<filename>download.jpg</filename>
+	<path>C:\Users\DELL\Downloads\snake weed\download.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snakeweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>30</ymin>
+			<xmax>158</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>
